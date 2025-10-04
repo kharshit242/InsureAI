@@ -1,0 +1,5 @@
+com\example\emailverification\controller\UserController.class
+com\example\emailverification\service\EmailService.class
+com\example\App.class
+com\example\emailverification\EmailVerificationApplication.class
+com\example\emailverification\model\User.class
